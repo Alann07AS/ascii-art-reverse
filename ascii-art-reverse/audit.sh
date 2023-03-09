@@ -8,4 +8,3 @@ go run main.go examples/example04
 go run main.go examples/example05
 go run main.go examples/example06
 go run main.go examples/example07
-    
